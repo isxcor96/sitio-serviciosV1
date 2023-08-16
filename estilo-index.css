@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background: #97A15E;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color: #A96100;
+}
+
+.pie {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+

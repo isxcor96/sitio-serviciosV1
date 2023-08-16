@@ -1,0 +1,83 @@
+ body{
+background: #97A15E;
+
+ }
+ #ico{
+ 	border-radius: 100%;
+ }
+ a{
+
+	color: #A96100;
+	top: 30%
+	transform: translate(-30%,-50%);
+	
+}
+.caja-contenedor{
+	width: 350px;
+	height: 650px;
+	color: #A96100;
+	background: #145A32  ;
+	top: 75.9%;
+	left:70%;
+	position: absolute;
+	transform: translate(-30%,-50%);
+	box-sizing: border-box;
+	padding: 30px 20px;
+}
+.icono{
+	height: 650px;
+	width: 800px;
+	position:absolute;
+	top:50%
+	left: 70%;
+	transform: translate(9%,9.3%);
+	background: #145A32  ;
+	
+	}
+
+
+.caja-contenedor h1{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 35px;
+
+}
+
+
+.caja-contenedor label{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	display: block;
+}
+
+.caja-contenedor input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.caja-contenedor input[type="text"],
+.caja-contenedor input[type="password"]{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 25px;
+}
+.caja-contenedor input[type="submit"]{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: 
+	font-size: 20px;
+	color:#000;
+	;
+}
+.titulo{
+	background:#229954
+	color:#ffffff
+
+}
